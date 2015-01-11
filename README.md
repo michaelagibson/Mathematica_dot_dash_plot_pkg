@@ -19,15 +19,22 @@ See http://www.gnu.org/licenses/gpl-3.0-standalone.html for a copy of the licens
 
 Originally Created by:
                    Dr. Eric Gossett
+                   
                    Bethel University
+                   
                    3900 Bethel Drive
+                   
                    St. Paul, MN 55112
+                   
                    gossett@bethel.edu
                    
 Modified by:
                   Michael A Gibson
+                  
                   MIT
+                  
                   m_gibson@mit.edu
+                  
                   gibson.michael.a@gmail.com
 
 * Version 1.06: FrequencyDiagram added, change in Graphics, for Mma 2.0
