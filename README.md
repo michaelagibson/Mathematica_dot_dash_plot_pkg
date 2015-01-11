@@ -2,7 +2,7 @@
 A package for dot-dash plots in Mathematica inspired by Edward Tufte
 
 ##Description
-A package for dot-dash plots in Mathematica inspired by Edward Tufte. It can be directly used with the Get[] command in Mathematica 10. One may need to mess with the plotrange in order to assure that the ticks and labels are included in the plot.
+A package for dot-dash plots in Mathematica inspired by Edward Tufte. It can be directly used with the Get[] command in Mathematica 10. One may need to mess with the PlotRange in order to assure that the ticks and labels are included in the plot, or simply resize the plot with ImageSize.
 
 ##Credits and Licensing
 This program is free software: you can redistribute it and/or modify
