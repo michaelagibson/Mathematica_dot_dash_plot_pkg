@@ -19,23 +19,16 @@ See http://www.gnu.org/licenses/gpl-3.0-standalone.html for a copy of the licens
 
 Originally Created by:
                    Dr. Eric Gossett
-                   
                    Bethel University
-                   
                    3900 Bethel Drive
-                   
                    St. Paul, MN 55112
-                   
                    gossett@bethel.edu
                    
 Modified by:
-                  Michael A Gibson
-                  
-                  MIT
-                  
-                  m_gibson@mit.edu
-                  
-                  gibson.michael.a@gmail.com
+                  Michael A Gibson 
+                  MIT 
+                  m_gibson@mit.edu 
+                  gibson.michael.a@gmail.com 
 
 * Version 1.06: FrequencyDiagram added, change in Graphics, for Mma 2.0
 * Version 1.2:  DDAxesLabels, DDPlotLabel, DDMedian added, both functions
@@ -43,3 +36,10 @@ Modified by:
 * Version 1.3:  Fixed some errorsa with DDMedian
 * Version 1.4:  Switched from copyright to GPLv3 copyleft.
 * Version 1.5:  Moderate edits made to assure compatibility with Mathematica 10
+
+Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
