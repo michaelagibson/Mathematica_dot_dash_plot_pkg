@@ -29,20 +29,37 @@ Examples: FrequencyDiagram[{2,5,4,2,7,4,2,3}],
 FrequencyDiagram[{{3.14,7},{3,4},{2.71828,3}}],
 FrequencyDiagram[Table[Round[100 Random[]],{i,1,125}]]"
 
-(* Version 1.3
+(* Version 1.4
    
-                   Copyright February 1994, February 2001
-           
+Copyright February 1994, February 2001, January 2015
+
+This program is free software: you can redistribute it and/or 
+modify it under the terms of the GNU General Public License as published by 
+the Free Software Foundation, either version 3 of the License, or any later version.
+
+This program is distributed in the hope that it will be useful, 
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+    See http://www.gnu.org/licenses/gpl-3.0-standalone.html for a copy of the license.
+     Originally created by:      
                    Dr. Eric Gossett
                    Bethel College
                    3900 Bethel Drive
                    St. Paul, MN 55112
                    gossett@bethel.edu
-           
-   Version 1.06: FrequencyDiagram added, change in Graphics, for Mma 2.0
-   Version 1.2:  DDAxesLabels, DDPlotLabel, DDMedian added, both functions
+    Modified by:  
+                  Michael A Gibson  
+                  MIT  
+                  m_gibson@mit.edu  
+                  gibson.michael.a@gmail.com
+
+	Version 1.06: FrequencyDiagram added, change in Graphics, for Mma 2.0
+	Version 1.2:  DDAxesLabels, DDPlotLabel, DDMedian added, both functions
                  now return a graphics object
-   Version 1.3:  Fixed some errorsa with DDMedian
+	Version 1.3:  Fixed some errorsa with DDMedian
+	Version 1.4:  Switched from copyright to GPLv3 copyleft.
+	Version 1.5:  Moderate edits made to assure compatibility with Mathematica 10
 *)
 
 Begin["`Private`"]
