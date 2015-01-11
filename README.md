@@ -17,14 +17,14 @@ GNU General Public License for more details.
 
 See http://www.gnu.org/licenses/gpl-3.0-standalone.html for a copy of the license.
 
-Originally Created by:
+Originally Created by:  
                    Dr. Eric Gossett  
                    Bethel University  
                    3900 Bethel Drive  
                    St. Paul, MN 55112  
                    gossett@bethel.edu  
                    
-Modified by:
+Modified by:  
                   Michael A Gibson  
                   MIT  
                   m_gibson@mit.edu  
